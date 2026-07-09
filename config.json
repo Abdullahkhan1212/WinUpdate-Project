@@ -1,5 +1,5 @@
 {
-    "C2_HOST": "192.168.100.10",
+    "C2_HOST": "192.168.100.3",
     "C2_PORT": 4444,
     "ENCRYPTION_KEY": "E2p2NI5-ffLV6QvSLMyohCwYIWcF9My-L_jUmd0Cyq4="
 }
